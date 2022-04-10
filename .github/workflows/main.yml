@@ -29,3 +29,4 @@ jobs:
           heroku_api_key: 9c4f5aa2-54dd-41f6-9bc1-1c6fede64011
           heroku_app_name: "bala-test-app-1" 
           heroku_email: "balakumaran.raji@gmail.com"
+          healthcheck: "https://bala-test-app-1.herokuapp.com/health"
